@@ -1,1 +1,1 @@
-# CADandCKD
+# WebApp_for_Disease_Prediction
